@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task_7_Local DB_WebServices_MVVM_&amp;_Widget</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="user_info">User information</string>
+    <string name="full_name">Full name</string>
+</resources>
